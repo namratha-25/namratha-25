@@ -156,13 +156,13 @@ A full-stack apartment management application designed to streamline resident ma
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=namratha-25&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C8759B&icon_color=D8A0BD&text_color=705C69&ring_color=DB91B3](https://github-readme-stats.vercel.app/api?username=namratha-25\&show_icons=true\&hide_border=true\&bg_color=FFF7FA\&title_color=C8759B\&icon_color=D8A0BD\&text_color=705C69\&ring_color=DB91B3)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=namratha-25&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C8759B&icon_color=D8A0BD&text_color=705C69&ring_color=DB91B3" />
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-25&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C8759B&text_color=705C69&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-25\&layout=compact\&hide_border=true\&bg_color=FFF7FA\&title_color=C8759B\&text_color=705C69\&langs_count=8)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratha-25&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C8759B&text_color=705C69&langs_count=8" />
 
 <br/>
 
-<img width="65%" src="[https://streak-stats.demolab.com?user=namratha-25&hide_border=true&background=FFF7FA&ring=DB91B3&fire=C8759B&currStreakLabel=C8759B&sideLabels=705C69&currStreakNum=705C69&sideNums=705C69&dates=9B8491](https://streak-stats.demolab.com?user=namratha-25\&hide_border=true\&background=FFF7FA\&ring=DB91B3\&fire=C8759B\&currStreakLabel=C8759B\&sideLabels=705C69\&currStreakNum=705C69\&sideNums=705C69\&dates=9B8491)" />
+<img width="65%" src="https://streak-stats.demolab.com?user=namratha-25&hide_border=true&background=FFF7FA&ring=DB91B3&fire=C8759B&currStreakLabel=C8759B&sideLabels=705C69&currStreakNum=705C69&sideNums=705C69&dates=9B8491" />
 
 </div>
 
