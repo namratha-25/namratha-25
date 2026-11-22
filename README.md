@@ -77,45 +77,69 @@ I enjoy combining AI/ML concepts with software engineering to turn ideas into pr
 
 ### 🤖 AI RPG Dungeon Master
 
-An intelligent role-playing game system that adapts its quests, NPC behaviour and world state according to player interactions.
+An ML-powered interactive role-playing game that dynamically adapts quests, NPC behaviour and world state based on player interactions.
 
 - Intent classification and sentiment analysis.
-- Dynamic world-state management.
+- Dynamic world-state and NPC behaviour management.
 - Player archetype clustering using K-Means.
 - Adaptive quest recommendations.
 
 **Stack:** Python · Streamlit · Scikit-learn · XGBoost · Pandas
 
-[🚀 Live Demo](https://ai-rpg-dungeon-master.streamlit.app/) · [GitHub Repositories](https://github.com/namratha-25?tab=repositories)
+[🚀 Live Demo](https://ai-rpg-dungeon-master.streamlit.app/)
+
+---
 
 ### 🖐️ SIGNLink AI
 
 A real-time sign language recognition application that translates hand gestures into text and voice output.
 
 - Hand landmark detection using MediaPipe.
-- 21-point hand landmark processing.
+- Processing of 21 hand landmarks.
 - Gesture classification.
-- Responsive React interface.
+- Responsive React-based interface.
 
 **Stack:** React · TypeScript · Tailwind CSS · MediaPipe
 
+---
+
 ### 📚 AI Research Assistant
 
-An AI-powered assistant designed to help students understand academic documents, explore research material and obtain contextual answers.
+A full-stack AI-powered research companion that helps students analyze academic papers, generate structured summaries and ask context-aware questions using Retrieval-Augmented Generation (RAG).
 
-**Focus:** Document processing · Retrieval-Augmented Generation · AI-assisted learning
+- PDF upload and automated text extraction.
+- AI-generated summaries, key findings and notable quotes.
+- Hybrid semantic and keyword-based document retrieval.
+- Context-grounded question answering.
+- SQLite-based document storage.
+
+**Stack:** Next.js · React · TypeScript · SQLite · OpenAI · Vercel AI SDK · RAG
+
+---
 
 ### 🎮 TriviaClash
 
 A real-time multiplayer quiz platform designed to make knowledge competitions interactive and engaging.
 
+- Multiplayer quiz experience.
+- Real-time gameplay and interactive competition.
+- Designed to make learning engaging through gamification.
+
+---
+
 ### 🏢 Apartment Management System
 
-A full-stack management application with role-based access, resident management and backend authentication.
+A full-stack apartment management application designed to streamline resident management and administrative operations.
+
+- Role-based access for administrators, managers and residents.
+- Secure authentication using JWT.
+- Backend API development and resident management.
+- MongoDB-based data management.
 
 **Stack:** MongoDB · Express.js · React · Node.js · JWT
 
 [🚀 Live Demo](https://apartment-management-mern.vercel.app/)
+
 
 ### 🔮 Other Projects
 
