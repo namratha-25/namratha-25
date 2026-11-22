@@ -136,11 +136,9 @@ A full-stack management application with role-based access, resident management 
 
 ## 🧊 3D Contribution Calendar
 
-\<div align="center">
-
-\<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub contribution calendar" />
-
-\</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/namratha-25/namratha-25/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub Contribution Calendar" />
+</div>
 
 ---
 
