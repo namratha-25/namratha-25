@@ -258,35 +258,25 @@ A full-stack apartment management application designed to streamline resident ma
 - 🎓 Brainovision Solutions – National-Level Online Workshop
 ---
 
+
 ## 👩🏻‍💻 Coding Profiles
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://leetcode.com/u/Namratha_446/](https://leetcode.com/u/Namratha_446/)">
-\<img src="[https://img.shields.io/badge/LeetCode-150%2B%20Solved-DB91B3?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-150%2B%20Solved-DB91B3?style=for-the-badge\&logo=leetcode\&logoColor=white)" />
-\</a>
+<a href="https://leetcode.com/u/Namratha_446/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-DB91B3?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-\<a href="[https://www.codechef.com/users/brace_boss_11](https://www.codechef.com/users/brace_boss_11)">
-\<img src="[https://img.shields.io/badge/CodeChef-brace__boss__11-D8B4E2?style=for-the-badge&logo=codechef&logoColor=white](https://img.shields.io/badge/CodeChef-brace__boss__11-D8B4E2?style=for-the-badge\&logo=codechef\&logoColor=white)" />
-\</a>
+<a href="https://www.codechef.com/users/brace_boss_11">
+  <img src="https://img.shields.io/badge/CodeChef-brace__boss__11-D8B4E2?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
-\<a href="[https://www.hackerrank.com/profile/vankanamratha06](https://www.hackerrank.com/profile/vankanamratha06)">
-\<img src="[https://img.shields.io/badge/HackerRank-5★%20C%20%7C%205★%20SQL-E8AFC3?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-5★%20C%20%7C%205★%20SQL-E8AFC3?style=for-the-badge\&logo=hackerrank\&logoColor=white)" />
-\</a>
+<a href="https://www.hackerrank.com/profile/vankanamratha06">
+  <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85%20C%20%7C%205%E2%98%85%20SQL-E8AFC3?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 
-\</div>
+</div>
 
----
-
-## 🎧 Currently Vibing To
-
-\<!-- Replace the link below with the Markdown widget generated after connecting Spotify. -->
-
-\<div align="center">
-
-[🎵 Connect Spotify to display my recently played tracks](https://spotify-recently-played.jeffreyca.workers.dev/)
-
-\</div>
 
 ---
 
