@@ -1,17 +1,27 @@
-&#x20;\<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- HEADER -->
+<div align="center">
 
-\<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8AFC3,50:D8B4E2,100:F8EAF1&height=210&section=header&text=Namratha&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:E8AFC3,50\:D8B4E2,100\:F8EAF1&height=210&section=header&text=Namratha&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0\:E8AFC3,50\:D8B4E2,100\:F8EAF1\&height=210\&section=header\&text=Namratha\&fontSize=58\&fontColor=FFFFFF\&fontAlignY=36\&desc=AI%2FML%20Enthusiast%20%7C%20Software%20Developer\&descAlignY=58\&descSize=17\&animation=fadeIn)" width="100%" />
+<a href="https://github.com/namratha-25">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=DB91B3&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+Into+Working+Products;Learning%2C+Building+%26+Growing+Every+Day" alt="Typing SVG" />
+</a>
 
-\<a href="[https://github.com/namratha-25](https://github.com/namratha-25)"> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=DB91B3&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+Into+Working+Products;Learning%2C+Building+%26+Growing+Every+Day+%E2%9C%A8](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&duration=3000\&pause=900\&color=DB91B3\&center=true\&vCenter=true\&width=650\&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+Into+Working+Products;Learning%2C+Building+%26+Growing+Every+Day+%E2%9C%A8)" alt="Typing SVG" /> \</a>
+<br/>
 
-\<br/>
+<a href="https://github.com/namratha-25">
+<img src="https://img.shields.io/badge/GitHub-Namratha-DB91B3?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<a href="[https://github.com/namratha-25](https://github.com/namratha-25)"> \<img src="[https://img.shields.io/badge/GitHub-Namratha-DB91B3?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Namratha-DB91B3?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \<a href="[https://www.linkedin.com/in/namratha-vanka-02908b333/](https://www.linkedin.com/in/namratha-vanka-02908b333/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-D8B4E2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-D8B4E2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a> \<a href="[https://leetcode.com/u/Namratha_446/](https://leetcode.com/u/Namratha_446/)"> \<img src="[https://img.shields.io/badge/LeetCode-150%2B%20Problems-E8AFC3?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-150%2B%20Problems-E8AFC3?style=for-the-badge\&logo=leetcode\&logoColor=white)" /> \</a>
+<a href="https://www.linkedin.com/in/namratha-vanka-02908b333/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-D8B4E2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-\</div>
+<a href="https://leetcode.com/u/Namratha_446/">
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-E8AFC3?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
+</div>
 ---
 
 ## 🌷 About Me
