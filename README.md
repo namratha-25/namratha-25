@@ -202,8 +202,6 @@ A full-stack apartment management application designed to streamline resident ma
 - 🌟 **Semi-finalist** — ET GenAI Hackathon.
 - 🏸 **1st Place** — Badminton Doubles, District Rotaract Sports Event.
 - 🏓 **Runner-up** — Table Tennis Singles, District Rotaract Sports Event.
-- 💻 **150+ Problems Solved** — LeetCode.
-- ⭐ **HackerRank Skill Badges** — 5★ C, 5★ SQL and 3★ C++.
 - 🎓 **Merit-cum-Means Scholarship Recipient** — Aditya University.
 
 ---
