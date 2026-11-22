@@ -288,24 +288,26 @@ A full-stack apartment management application designed to streamline resident ma
 
 ---
 
+
 ## 🌐 Let's Connect!
 
 I'm always interested in connecting with developers, researchers, innovators and people who enjoy building meaningful technology.
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://www.linkedin.com/in/namratha-vanka-02908b333/](https://www.linkedin.com/in/namratha-vanka-02908b333/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s%20Connect-DB91B3?style=for-the-badge&logo=linkedin&logoColor=white" />
-\</a>
+<a href="https://www.linkedin.com/in/namratha-vanka-02908b333/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DB91B3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-\<a href="[https://github.com/namratha-25](https://github.com/namratha-25)">
-\<img src="[https://img.shields.io/badge/GitHub-Follow%20My%20Journey-D8B4E2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-D8B4E2?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+<a href="https://github.com/namratha-25">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-D8B4E2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
 **Thanks for visiting my profile!** 🌸
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:F8EAF1,50\:D8B4E2,100\:E8AFC3&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:F8EAF1,50\:D8B4E2,100\:E8AFC3\&height=110\&section=footer)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8EAF1,50:D8B4E2,100:E8AFC3&height=110&section=footer" width="100%" />
 
-\</div>
+</div>
+
