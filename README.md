@@ -44,19 +44,32 @@ I enjoy combining AI/ML concepts with software engineering to turn ideas into pr
 
 ### Programming Languages
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=light](https://skillicons.dev/icons?i=cpp,java,python,js,ts\&theme=light)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=light" />
+</p>
 
 ### Web Development & Databases
 
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql&theme=light](https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql\&theme=light)" /> \</p>
-
-### Tools & Technologies
-
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux,spring,docker&theme=light](https://skillicons.dev/icons?i=git,github,vscode,linux,spring,docker\&theme=light)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql&theme=light" />
+</p>
 
 ### AI / ML Ecosystem
 
-`Scikit-learn` · `XGBoost` · `Pandas` · `NumPy` · `MediaPipe` · `Streamlit` · `RAG` · `LLMs`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=light" />
+</p>
+
+<p>
+  <code>Scikit-learn</code> · <code>XGBoost</code> · <code>Pandas</code> · <code>NumPy</code> · <code>MediaPipe</code> · <code>Streamlit</code> · <code>RAG</code> · <code>LLMs</code>
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,spring,docker&theme=light" />
+</p>
+
 
 ---
 
