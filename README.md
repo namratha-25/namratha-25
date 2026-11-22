@@ -186,19 +186,11 @@ A full-stack management application with role-based access, resident management 
 
 ---
 
-## 🐱 A Little Coding Companion
+## 🎀 My Coding Companion
 
-\<div align="center">
-
-```text
- /\_/\
-( o.o )  "One more commit!"
- > ^ <
-```
-
-♡ Powered by curiosity, caffeine and code.
-
-\</div>
+<div align="center">
+  <img src="./github-mascot.png" width="400" alt="Pink-themed coding mascot" />
+</div>
 
 ---
 
