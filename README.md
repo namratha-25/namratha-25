@@ -24,17 +24,17 @@
 </div>
 ---
 
-## 🌷 About Me
+ ## 🌷 About Me
 
-Hi! I'm **Namratha Vanka**, an engineering student specializing in Artificial Intelligence and Machine Learning, with a strong interest in software engineering and intelligent applications.
+Hi! I'm **Namratha Vanka**, a third-year B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent applications and scalable software solutions.
 
-I enjoy transforming ideas into practical applications, experimenting with AI technologies, and building systems that solve real-world problems.
+I enjoy combining AI/ML concepts with software engineering to turn ideas into practical, real-world applications. My interests span applied machine learning, full-stack development, and emerging AI technologies.
 
-- 🤖 Exploring Machine Learning, Deep Learning, LLMs and Agentic AI.
-- 💻 Building full-stack applications and intelligent software systems.
-- 🧠 Practising Data Structures, Algorithms and problem-solving.
-- 🔬 Interested in research, innovation and applied AI.
-- 🌱 Continuously learning, experimenting and building.
+- 🤖 Exploring Machine Learning, Deep Learning, LLMs, RAG and AI Agents.
+- 💻 Developing full-stack applications and AI-powered solutions.
+- 🧩 Strengthening problem-solving skills through Data Structures and Algorithms.
+- 🔬 Interested in applied AI research, innovation and experimentation.
+- 🚀 Constantly building projects, exploring technologies and expanding my technical skills.
 
 **My philosophy:** Build with curiosity. Learn with consistency. Create with purpose.
 
