@@ -123,12 +123,15 @@ A full-stack management application with role-based access, resident management 
 
 ## 🐍 My Contribution Journey
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://raw.githubusercontent.com/namratha-25/namratha-25/output/github-snake.svg](https://raw.githubusercontent.com/namratha-25/namratha-25/output/github-snake.svg)" alt="Contribution Snake Animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namratha-25/namratha-25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namratha-25/namratha-25/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/namratha-25/namratha-25/output/github-snake.svg" width="100%" />
+</picture>
 
-\</div>
-
+</div>
 ---
 
 ## 🧊 3D Contribution Calendar
