@@ -189,16 +189,75 @@ A full-stack apartment management application designed to streamline resident ma
 
 ---
 
+---
+
 ## 🏆 Achievements & Recognition
 
-- 🥇 **1st Place** — Medhamanthan Hackathon (team achievement).
-- 🥉 **3rd Place** — Popsicle Bridge Challenge (team achievement).
-- 🌟 **Semifinalist** — ET Gen AI Hackathon.
-- 🏅 **Zonal Finalist** — Hack Arena.
-- 💡 Participant — Adobe India Hackathon, CodeFest'26 IIT (BHU), and Ratan Tata Innovation Hackathon.
-- 🏸 **1st Place** — Badminton Doubles.
-- 🏓 **Runner-up** — Table Tennis Singles.
+- 🥇 **1st Place** — Medhamanthan Hackathon (Team Achievement).
+- 🥉 **3rd Place** — Popsicle Bridge Challenge (Team Achievement).
+- 🏅 **Top 5** — Simply Updify Hackathon.
+- 🌟 **Top 20** — Emergent Hackathon.
+- 🎖️ **Certificate of Merit** — Ratan Tata Innovation Hackathon (RTIH).
+- 🏅 **Zonal-Level Finalist** — HackArena 2.0, Hyderabad.
+- 🌟 **Semi-finalist** — ET GenAI Hackathon.
+- 🏸 **1st Place** — Badminton Doubles, District Rotaract Sports Event.
+- 🏓 **Runner-up** — Table Tennis Singles, District Rotaract Sports Event.
+- 💻 **150+ Problems Solved** — LeetCode.
+- ⭐ **HackerRank Skill Badges** — 5★ C, 5★ SQL and 3★ C++.
+- 🎓 **Merit-cum-Means Scholarship Recipient** — Aditya University.
 
+---
+
+## 🎯 Competitions, Hackathons & Participation
+
+### 🚀 Hackathons & Innovation Challenges
+
+- 💡 TIS EPIC 8.0
+- 🏆 SRM × Mavionix India – Put Hackathon
+- ⚡ WhyCode.4u Hackathon
+- ❄️ Snowstorm Hackathon
+- 🌐 Faraway Hackathon
+- 🤖 Agent AI Hackathon
+- 👩‍💻 Women Who Master Tech Hackathon
+- ☁️ National Cloud and Innovation Challenge
+- 🧩 3SVK Ecosystem Platform – Season 2
+- 💻 Win If You Can: Code the Solution
+- 🇮🇳 Smart India Hackathon (SIH)
+
+### 🏢 Corporate & Technology Competitions
+
+- 🎨 Adobe University Hackathon
+- 🏅 Adobe India Hackathon 2026 – Round 1 (Team Igniters)
+- 💼 Tata Crucible Challenge
+- 🚗 Hero Campus Challenge
+- 🔍 InsightX
+- 🌟 Haxplore
+
+### 🎓 University & Coding Events
+
+- 🧠 VEDA – Code Quest
+- 🔐 Enigma – CodeFest '26, IIT (BHU)
+- 🌌 Vista – CodeFest '26, IIT (BHU)
+- 🌍 Open Source Global Connect
+- 🇮🇳 Nation Building Competition
+- ⌨️ Reverse Coding
+
+### 🎨 Creative & General Competitions
+
+- ✍️ Essay Writing – "Boon or Bane"
+- 📊 PowerPoint Presentation
+
+### 🌱 Social & National Initiatives
+
+- 🏃 Fit India Commonwealth
+- 🇮🇳 Know More About DFPO – Viksit Bharat
+- 🗳️ Viksit Bharat Young Leaders Dialogue 2027 – Online Quiz
+- 🩺 TB Mukt Bharat Abhiyan – Online Quiz
+
+### 📚 Workshops & Professional Development
+
+- 🧑‍💻 Brainovision Solutions – DSA Bootcamp
+- 🎓 Brainovision Solutions – National-Level Online Workshop
 ---
 
 ## 👩🏻‍💻 Coding Profiles
